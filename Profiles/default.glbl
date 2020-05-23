@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://gorest.co.in/public-api'</initValue>
+      <name>HOST</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bearer BNRe5e1XEvFuNt_eu4jaONwmUXfgoC_0YFCF'</initValue>
+      <name>AUTH_TOKEN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bearer BNRe5gghge1XEvFuNt_eu4jaONwmUXfgoC_0YFCF'</initValue>
+      <name>INVALID_AUTH_TOKEN</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
