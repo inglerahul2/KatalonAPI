@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify List Users without auth token</description>
+   <name>TC03_ListUsers_WithoutAuth</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3b2177d-0f79-4ae6-877f-88dc8c28894d</testCaseGuid>
+</TestCaseEntity>
